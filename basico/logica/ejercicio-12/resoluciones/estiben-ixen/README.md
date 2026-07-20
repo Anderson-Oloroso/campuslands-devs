@@ -58,7 +58,3 @@ Reposición: 0
 ```
 
 ---
-
-## Conclusión
-
-La solución cumple con todos los requisitos del ejercicio, utiliza variables descriptivas, evita reposiciones negativas y genera un reporte organizado por talla.
