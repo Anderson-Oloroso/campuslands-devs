@@ -1,11 +1,7 @@
-## Entregable esperado
+## Solución ejercicio: 
 
-Una carpeta propia dentro de `resoluciones/` con tu solución. El archivo debe incluir:
-
-- Tu nombre.
+- **Henrik Anderson Oloroso García**.
 - La solución completa.
-- Una breve explicación de cómo pensaste el problema.
-- Evidencia de validación cuando aplique.
 
 ```txt
 musica/
@@ -22,4 +18,6 @@ musica/
    └─ versionado-audio.md
 
 ```
+- Una breve explicación de cómo pensaste el problema.
+
 _Explicación:_ En base a lo estipulado del proyecto separé los audios con las convenciones de nombres de los audios, y los separé por subcarpetas, obteniendo asi un orden de archivos totalmente íntegro 
