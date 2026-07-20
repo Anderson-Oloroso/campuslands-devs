@@ -10,3 +10,13 @@ El trabajo esta diseñado para la practica de trabajo en grupo, el principal obj
 
 - Verificar si estoy en mi rama
 ![rama](./img/ver-rama.png)
+
+- Commit y push
+![commit](./img/push.png)
+
+- Rama existente en repositorio.
+![repositorio](./img/rama.png)
+
+# AUTOR 
+
+    LUCAS SAMUEL PAJARITO SUREK
