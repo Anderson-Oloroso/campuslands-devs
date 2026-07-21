@@ -16,5 +16,5 @@ Se requería practicar la actualización de la rama `dev` antes de empezar a tra
 - `git checkout -b alumno/selvin-lem/ejercicio-06`
 - `mkdir -p basico/git/ejercicio-06/resoluciones/selvin-lem`
 - `git add .`
-- `git commit -m "feat: finalizar el ejericio-05, git." `
+- `git commit -m "feat: finalizar el ejericio-06, git." `
 - `git push -u origin alumno/selvin-lem/ejercicio-06`
